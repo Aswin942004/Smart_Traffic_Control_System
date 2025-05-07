@@ -2,14 +2,14 @@
  <img height=200px src="./traffic-signal.jpg" alt="Traffic Signal Timer">
 </p>
 
-<h1 align="center">Adaptive Traffic Signal Timer</h1>
+<h1 align="center">A Smart Traffic Control System</h1>
 
 <div align="center">
 
 [![Python version](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![License: Apache 2](https://img.shields.io/badge/License-Apache-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-<h4>This Adaptive Traffic Signal Timer uses live images from the cameras at traffic junctions for traffic density calculation using YOLO object detection and sets the signal timers accordingly, thus reducing the traffic congestion on roads, providing faster transit to people, and reducing fuel consumption.</h4>
+<h4>A Smart Traffic Control System using OpenCV uses real-time video processing to detect and count vehicles at intersections. It dynamically adjusts signal timings to optimize traffic flow and reduce congestion.</h4>
 
 </div>
 
