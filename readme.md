@@ -47,7 +47,7 @@ Read more about object detection model used, working of the algorithm, and devel
 * `Vehicle Detection`
 
 <p align="center">
- <img height=400px src="./vehicle-detection.png" alt="Vehicle Detection">
+ <img height=400px src="./![image](https://github.com/user-attachments/assets/d81971c6-5f5b-4c1c-83d6-e2199e248c20)" alt="Vehicle Detection">
 </p>
 
 <br> 
@@ -92,8 +92,3 @@ Read more about object detection model used, working of the algorithm, and devel
 ```
 
 ------------------------------------------
-### Acknowledgement 
-
-This project was originally developed by Mr. Mihir M Gandhi (https://github.com/mihir-m-gandhi) I extend my siciere thanks to him.
-Source repository link: https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer.git
-
