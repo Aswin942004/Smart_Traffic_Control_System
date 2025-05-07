@@ -14,6 +14,12 @@
 </div>
 
 -----------------------------------------
+## Team Member Name
+
+ 1. Aswin A
+ 2. Sreejith MS
+ 3. Mohamed Afsar S
+
 ### Inspiration
 
 * Traffic congestion is becoming one of the critical issues with the increasing population and automobiles in cities. Traffic jams not only cause extra delay and stress for the drivers but also increase fuel consumption and air pollution. 
@@ -59,7 +65,7 @@ Read more about object detection model used, working of the algorithm, and devel
 2. [Microsoft Visual C++ build tools](http://go.microsoft.com/fwlink/?LinkId=691126&fixForIE=.exe.) (For Windows only)
 
 ------------------------------------------
-### Installation
+## Team
 
 * Step I: Clone the Repository
 ```sh
